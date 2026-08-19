@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests
+requests-toolbelt
+yt-dlp
+psutil
+urllib3
